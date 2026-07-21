@@ -1,0 +1,4 @@
+interface:
+  display_name: "Paperclip Docs"
+  short_description: "Current official Paperclip guidance"
+  default_prompt: "Use $paperclip-docs to answer this Paperclip question from current official sources."
